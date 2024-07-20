@@ -1,0 +1,9 @@
+create the provider.tf file
+create the website file html & css
+create main.tf & write the code inside it
+write a tf script for creation of s3 bucket
+create the resource for upload the html & css file inside s3 bucket
+create the resource for disable the block public access inside bucket permission
+create the resource for s3 bucket policy
+create the resource for s3 website configuration
+
